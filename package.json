@@ -1,0 +1,14 @@
+{
+  "name": "net.narazaka.unity.material-variant-creator",
+  "version": "1.0.0",
+  "unity": "2022.1",
+  "displayName": "Material Variant Creator",
+  "description": "create multiple material variants at once",
+  "author": {
+    "name": "Narazaka",
+    "url": "https://github.com/Narazaka"
+  },
+  "license": "Zlib",
+  "type": "tool",
+  "url": "https://github.com/Narazaka/MaterialVariantCreator.git"
+}
